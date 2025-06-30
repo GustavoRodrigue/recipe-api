@@ -31,10 +31,10 @@ Como rodar via docker:
 
 Primeiro Digite no terminal o comando:
 
-## docker pull gustavorodrigues/recipe-api
+## docker pull gustavorodrigue/recipe-api
 
 E para rodar o digite o seguinte comando:
 
-## docker run -p 3000:3000 gustavorodrigues/recipe-api
+## docker run -p 3000:3000 gustavorodrigue/recipe-api
 
 
