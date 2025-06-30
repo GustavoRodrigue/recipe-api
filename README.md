@@ -17,11 +17,11 @@ Depois na pasta do código abra o vscode:
 
 ## cd recipe-api
 
-Depois instale as bibliotecas usando o coamdo:
+Depois instale as bibliotecas usando o comando:
 
 ## npm install
 
-Para rodar o código digite o comando
+Para rodar o código digite o comando:
 
 ## npm run start
 
