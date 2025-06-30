@@ -11,7 +11,7 @@ Como rodar
 
 Baixa o repositorio no github usando o comando;
 
-## git clone <repo-url>
+## git clone https://github.com/GustavoRodrigue/recipe-api.git
 
 Depois na pasta do código abra o vscode:
 
